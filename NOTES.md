@@ -98,7 +98,7 @@
 
 ## 9.
 ### 実行した主なコマンド
-* Switched to a new branch 'yoshida_sub_branch'（新たなブランチを作成して切り替える）
+* git switch -c yoshida_sub_branch（新たなブランチを作成して切り替える）
 * git add .（変更をステージ）
 * git commit -m "todo.txtからタスクを1つ削除"（ステージした変更をコミット）
 * git commit -m "done.txtにタスクを一つ追加"（ステージした変更をコミット）
