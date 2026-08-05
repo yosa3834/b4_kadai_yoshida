@@ -76,7 +76,8 @@
 
 ## 7.
 ### 実行した主なコマンド
-* git remote add origin https://github.com/yosa3834/b4_kadai_yoshida.git（リモートリポジトリを登録）
+* git remote add origin https://github.com/yosa3834/b4_kadai_yoshida.git
+（リモートリポジトリを登録）
 * git remote -v（正しく登録できたかを確認）
 
 ### 確認ポイント
